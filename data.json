@@ -3,27 +3,32 @@
     {
       "id": 0,
       "name": "Bread",
-      "desc": "Normal standard everyday tasty bread!"
+      "desc": "Normal standard everyday tasty bread!",
+      "logo_url": "https://bread.basgoeze.com/images/categories/bread.png"
     },
     {
       "id": 1,
       "name": "Bread Cars",
-      "desc": "Wroom Wroom!"
+      "desc": "Wroom Wroom!",
+      "logo_url": "https://bread.basgoeze.com/images/categories/bread_cars.png"
     },
     {
       "id": 2,
       "name": "Halloween Cookies",
-      "desc": "Tasty but scary!"
+      "desc": "Tasty but scary!",
+      "logo_url": "https://bread.basgoeze.com/images/categories/halloween_cookies.png"
     },
     {
       "id": 3,
       "name": "Bread Delivery Service",
-      "desc": "Your personal bread concierge & catering service. Our dedicated drivers bring you everyday for one Month one Product from our Catalog of tasty bread."
+      "desc": "Your personal bread concierge & catering service. Our dedicated drivers bring you everyday for one Month one Product from our Catalog of tasty bread.",
+      "logo_url": "https://bread.basgoeze.com/images/categories/bread_delivery_service.png"
     },
     {
       "id": 4,
       "name": "Unstable bread",
-      "desc": "We at Stable Bread believe that every generated bread should find a home. Here you will find our still mostly tasty products that did not make the cut for one reason or another."
+      "desc": "We at Stable Bread believe that every generated bread should find a home. Here you will find our still mostly tasty products that did not make the cut for one reason or another.",
+      "logo_url": "https://bread.basgoeze.com/images/categories/unstable_bread.png"
     }
   ],
   "products": [
