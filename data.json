@@ -889,7 +889,7 @@
     {
       "name": "Möbius bread",
       "desc": "Have you ever felt the need for existential dread and a desire for fresh bread, then möbious bread is all you need. You can see it twist in multiple dimensions while also twisting your taste bust to unforseen flavors.",
-      "price": "3.99999999",
+      "price": "3.99",
       "catid": 4,
       "url": "https://bread.basgoeze.com/images/unstable_bread/bread_17.png"
     },
@@ -902,7 +902,7 @@
     },
     {
       "name": "Dumpster bread",
-      "desc": "I have found this in a dumpster behind a bakery. It might still be usefull to someone. I just need money for crack cocaine.",
+      "desc": "I have found this here bread in a dumpster behind a bakery. It might still be usefull to someone. I just need money to fuel my bread addiction.",
       "price": "0.49",
       "catid": 4,
       "url": "https://bread.basgoeze.com/images/unstable_bread/bread_19.png"
