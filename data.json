@@ -34,295 +34,295 @@
   "products": [
     {
       "name": "The Krusty Ciabatta",
-      "desc": "This fine loaf was made in the style of italian Ciabatta but somehow still got a nice crunshy crust. Pretty fluffy on the inside",
+      "desc": "This fine loaf was made in the style of italian Ciabatta but somehow still got a nice crunchy crust. Pretty fluffy on the inside",
       "price": "2.99",
       "catid": 0,
       "url": "https://bread.basgoeze.com/images/bread/bread_00.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
+      "name": "The Multigrain Miracle",
+      "desc": "If you're ever in need of a healthy snack or a perfect all-rounded base for your sandwich, the Multigrain Miracle has got you covered. Fresh and hefty, mmmm!",
       "price": "3.99",
       "catid": 0,
       "url": "https://bread.basgoeze.com/images/bread/bread_01.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Langonian Loaf",
+      "desc": "This elongated loaf is a tradition in the rural bakeries of Langonia, where the people are quiet but full of love for their culinary work. Enjoy a slice of culture.",
+      "price": "1.99",
       "catid": 0,
       "url": "https://bread.basgoeze.com/images/bread/bread_02.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Sourdough Surprise",
+      "desc": "Wow! This delicious twist on the classic formula has a kick to it. Take a bite and your taste buds ignite.",
+      "price": "2.49",
       "catid": 0,
       "url": "https://bread.basgoeze.com/images/bread/bread_03.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Bodacious Baguette",
+      "desc": "Who said that bread can't be fine dining? Treat yourself to a luxurious experience. Ooh la la...",
+      "price": "4.49",
       "catid": 0,
       "url": "https://bread.basgoeze.com/images/bread/bread_04.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
+      "name": "Brioche Dream",
+      "desc": "Soft as a pillow and light as a cloud, this sweet pastry will leave you lusting for more. Don't get lured too much by its charms!",
       "price": "3.99",
       "catid": 0,
       "url": "https://bread.basgoeze.com/images/bread/bread_05.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "The Classic",
+      "desc": "Solid. Practical. Cheap. This classic creation is enjoyed by many factory workers of the world, sustaining and giving energy to society's backbone. Comes out a bit misshapen sometimes, because function over form.",
+      "price": "0.99",
       "catid": 0,
       "url": "https://bread.basgoeze.com/images/bread/bread_06.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Dangerous Liaison",
+      "desc": "This product will look unassuming to most, but according to a local myth, the invention of this type of bread is attributed to the legendary Farmhand Josh, who once made a deal with the Devil to make his bread irresistible to the common folk. People came flocking, and eventually Josh was shot by a mysterious man in a cadillac. Rumors are that this was a henchman of Big Bread. Josh was too good for this world. Do you want to try the Devil's game?",
+      "price": "6.66",
       "catid": 0,
       "url": "https://bread.basgoeze.com/images/bread/bread_07.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
+      "name": "Dwarven Deliciousness",
+      "desc": "This loaf was engineered with precision by a Polish bakery guild that have a strange obsession with Dwarf culture. This bread's inventors claim that this recipe was handed to them by a Dwarf one fateful midnight. Questionable lore, but solid product.",
       "price": "3.99",
       "catid": 0,
       "url": "https://bread.basgoeze.com/images/bread/bread_08.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Loaf of Nourishment",
+      "desc": "Crafted with mathematical brilliance by the world's topmost food scientist to procure a loaf that maximizes fulfillment and nutrition over size and material cost, this is a little bundle of perfect biomechanical excellence for you to trust and enjoy.",
+      "price": "1.99",
       "catid": 0,
       "url": "https://bread.basgoeze.com/images/bread/bread_09.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Beloved Bun",
+      "desc": "One of the most popular picks among our catalogue, this is the people's breakfast.",
+      "price": "2.49",
       "catid": 0,
       "url": "https://bread.basgoeze.com/images/bread/bread_10.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Stretchy Special",
+      "desc": "Somehow, you can bend, squish, and stretch this bread into almost any geometrical shape you desire. Kids love it, parents fear it, food administrations don't know what to do.",
+      "price": "1.99",
       "catid": 0,
       "url": "https://bread.basgoeze.com/images/bread/bread_11.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Pane di Altamura",
+      "desc": "Everything in this perfect little loaf is just right, from the flavourful and tasty insides to the thick, lovely crust. Molto bene!",
+      "price": "3.49",
       "catid": 0,
       "url": "https://bread.basgoeze.com/images/bread/bread_12.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Sirapslimpa",
+      "desc": "Credited to a swedish househusband who got struck by a sudden genius, this heavenly creation goes best with some butter and cheese. Food for the soul.",
+      "price": "3.29",
       "catid": 0,
       "url": "https://bread.basgoeze.com/images/bread/bread_13.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Beekeper's Beauty",
+      "desc": "Cherished by beekepers around the globe, just a bite of this will have you ready to get down and dirty with the earth's hardest workers. But watch out - every 1 in 100 or so of this bread can have a dead bee in it. Such is life for a beekeeper.",
+      "price": "2.99",
       "catid": 0,
       "url": "https://bread.basgoeze.com/images/bread/bread_14.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
+      "name": "Lonely Bread",
+      "desc": "Delicious on the inside, unassuming on the outside, generally left on the shelves by the mindless consumer and underappreciated in a competitive world. Don't you want to give this bread a home?",
       "price": "3.99",
       "catid": 0,
       "url": "https://bread.basgoeze.com/images/bread/bread_15.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Sir John",
+      "desc": "About as grey, rainy, mellow as the British countryside, but also distinguished and comes with a hint of legend and class within. Goes well with tea.",
+      "price": "5.99",
       "catid": 0,
       "url": "https://bread.basgoeze.com/images/bread/bread_16.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
+      "name": "Frivolous Frenchie",
+      "desc": "Buyer beware: Studies have shown that consuming too much of this one will increase flatulence by immediately noticeable and highly unwelcome amounts. Popular in France and honestly not really anywhere else.",
       "price": "3.99",
       "catid": 0,
       "url": "https://bread.basgoeze.com/images/bread/bread_17.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Round Rye",
+      "desc": "Attributed to Robyn R. Rydolin, this bundle of joy will get your day started right, or be a great companion for lunch or dinner, and even a sneaky midnight snack. Just an all-round must-have.",
+      "price": "2.99",
       "catid": 0,
       "url": "https://bread.basgoeze.com/images/bread/bread_18.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "The Mistake",
+      "desc": "Our intern made this up last week and we fired him. We don't know what he was thinking. Still edible despite terrible design.",
+      "price": "0.99",
       "catid": 0,
       "url": "https://bread.basgoeze.com/images/bread/bread_19.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "All Apologies",
+      "desc": "We're so sorry about this one. Try to cut around the mold. You have to understand, our policy is to not throw out any potential product. Any bread is welcome here. All in all is all we are.",
+      "price": "0.10",
       "catid": 0,
       "url": "https://bread.basgoeze.com/images/bread/bread_20.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Family Van",
+      "desc": "This spacious, bulky vehicle has ample room for anything from marzipan pigs to gingebread man, safe and sound on wheels so round!",
+      "price": "4.99",
       "catid": 1,
       "url": "https://bread.basgoeze.com/images/bread_cars/bread_00.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
+      "name": "Stylish City Trotter",
+      "desc": "Quick on the move, felixble and slim, this modern bread car is built for swift transport in slick style.",
       "price": "3.99",
       "catid": 1,
       "url": "https://bread.basgoeze.com/images/bread_cars/bread_01.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Stout Exotic Racer",
+      "desc": "Powerful and speedy, this one has that little extra special sauce.",
+      "price": "4.49",
       "catid": 1,
       "url": "https://bread.basgoeze.com/images/bread_cars/bread_02.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Exquisite Ride",
+      "desc": "For distinguished drivers and grain transport connoisseurs, this is the dream. Built to last and just as artful as it is reliable.",
+      "price": "7.99",
       "catid": 1,
       "url": "https://bread.basgoeze.com/images/bread_cars/bread_03.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Geometrically Impossible French Nightmare",
+      "desc": "The brainchild of a french bicyclist with too much passion and a tendency to ask 'how'? before 'why?', this one comes at a discount price because driving comes with a non-negligable risk.",
+      "price": "1.99",
       "catid": 1,
       "url": "https://bread.basgoeze.com/images/bread_cars/bread_04.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
+      "name": "The Cookie Cab",
+      "desc": "Crunchy and fabulous, this car is a sweet mobile treat.",
       "price": "3.99",
       "catid": 1,
       "url": "https://bread.basgoeze.com/images/bread_cars/bread_05.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Sugar Tank",
+      "desc": "Watch out for this one! Nobody is safe from the Sugar Tank - packed with more deliciousness than you can handle, this all-out calorie war car might not crush opponents, but it will send them to the hospital.",
+      "price": "4.99",
       "catid": 1,
       "url": "https://bread.basgoeze.com/images/bread_cars/bread_06.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Layered Larry",
+      "desc": "A detailed and intricated design, this creation by high-end fashion visionary Larry Lavaire is sure to dazzle and wow any bystander with its eccentric charms.",
+      "price": "5.99",
       "catid": 1,
       "url": "https://bread.basgoeze.com/images/bread_cars/bread_07.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Buddhist Bob",
+      "desc": "How did he end up here? Sometimes our friend Bob here gets too high on yeast and thinks he's a car. Oh well. Try giving him a ride if you so choose. It should be a fun challenge.",
+      "price": "0.99",
       "catid": 1,
       "url": "https://bread.basgoeze.com/images/bread_cars/bread_08.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Kiddie Nightmare",
+      "desc": "Originally designed as an edible treat for children to teach them what a car is, the accidently horrifying face design has led it's target audience to cry and rip it apart most of the time.",
+      "price": "1.99",
       "catid": 1,
       "url": "https://bread.basgoeze.com/images/bread_cars/bread_09.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Welsh Wonder",
+      "desc": "Designed in the city of Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, this bread car comes with a long history despite its short stature. With cream cheese accents and sesame seeds in the base, this is a well refined cultural milestone.",
+      "price": "3.29",
       "catid": 1,
       "url": "https://bread.basgoeze.com/images/bread_cars/bread_10.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Taxi With A Twist",
+      "desc": "At first sight just your average trusty bread city transport, but on second look this bread taxi is equipped with a little extra roof baguette.",
+      "price": "3.49",
       "catid": 1,
       "url": "https://bread.basgoeze.com/images/bread_cars/bread_11.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Filaxous Gnav",
+      "desc": "This is a bread car for the real aficionados. You will not spot a more deftly constructed, functional yet beautiful bread car far and wide. Limited supply - be a proud owner of a Filaxous Gnav before it is too late.",
+      "price": "7.99",
       "catid": 1,
       "url": "https://bread.basgoeze.com/images/bread_cars/bread_12.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Soda Street Driver",
+      "desc": "What appears to be a porous spongy disaster to the uneducated eye is actually the height of current Irish soda bread technology. Applying creative baking techniques to the science of bread cars, this marriage of culinary and academic excellence will stand the test of time.",
+      "price": "4.49",
       "catid": 1,
       "url": "https://bread.basgoeze.com/images/bread_cars/bread_13.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "The Boss",
+      "desc": "Simply put, an undeniable example of high-end bread cars for the affluent man. An affordable status symbol for the upper middle class.",
+      "price": "5.99",
       "catid": 1,
       "url": "https://bread.basgoeze.com/images/bread_cars/bread_14.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
+      "name": "English Cinnamon Ride",
+      "desc": "A feast for eyes and taste buds alike, this layered and perfectly texutred treat is easily loveable and thoroughly pleasant.",
       "price": "3.99",
       "catid": 1,
       "url": "https://bread.basgoeze.com/images/bread_cars/bread_15.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Wacky Adventure Vessel",
+      "desc": "The engineer that came up with this one might or might not have been off the hops putting this one on the drawing board. Fun guaranteed - safety not so much.",
+      "price": "2.49",
       "catid": 1,
       "url": "https://bread.basgoeze.com/images/bread_cars/bread_16.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Wonky Oldie",
+      "desc": "This nostalgic vehicle has been through a lot. Take proper care of it!",
+      "price": "1.79",
       "catid": 1,
       "url": "https://bread.basgoeze.com/images/bread_cars/bread_17.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Bullet Bus",
+      "desc": "Aeordynamic and built for mass transport. Even loaded with hoardes of dough based inhabitants, this bread bus will speed through any area like clockwork. No time wasted, and no excesses in design.",
+      "price": "4.49",
       "catid": 1,
       "url": "https://bread.basgoeze.com/images/bread_cars/bread_18.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "The Most Stable Of Them All",
+      "desc": "Unable to actually move due to a lack of wheels, this bread car does not go anywhere (...except into your mouth! yim yum)",
+      "price": "2.89",
       "catid": 1,
       "url": "https://bread.basgoeze.com/images/bread_cars/bread_19.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Porous Traveller",
+      "desc": "Balanced precariously on delicious rings, this featherweight car is not very practical, but it is a fanficul sight for anyone.",
+      "price": "1.99",
       "catid": 1,
       "url": "https://bread.basgoeze.com/images/bread_cars/bread_20.png"
     },
