@@ -14,15 +14,15 @@
     },
     {
       "id": 2,
-      "name": "Halloween Cookies",
-      "desc": "Tasty but scary!",
-      "logo_url": "https://bread.basgoeze.com/images/categories/halloween_cookies.png"
-    },
-    {
-      "id": 3,
       "name": "Bread Delivery Services",
       "desc": "Your personal bread concierge & catering service. Our dedicated drivers bring you everyday for one Month one Product from our Catalog of tasty bread.",
       "logo_url": "https://bread.basgoeze.com/images/categories/bread_delivery_service.png"
+    },
+    {
+      "id": 3,
+      "name": "Halloween Cookies",
+      "desc": "Tasty but scary!",
+      "logo_url": "https://bread.basgoeze.com/images/categories/halloween_cookies.png"
     },
     {
       "id": 4,
