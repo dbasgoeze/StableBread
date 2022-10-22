@@ -35,3 +35,6 @@ Do not enter real credit card information!
 1. The material design pattern is easy to use but does need a lot of practice to master.
 2. I mean I was convinced of that before but now more then ever do I know that I am not a designer and should hire people to do the actual design part if I every depend on that.
 3. I may never need to know that again but I think I got the hang of the internals of riverpod and how flutter constructs its widgets.
+
+## Online deployment
+This project is temporarily published at [bread.basgoeze.com](http://bread.basgoeze.com).
