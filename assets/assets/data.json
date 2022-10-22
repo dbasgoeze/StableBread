@@ -33,7 +33,7 @@
   ],
   "products": [
     {
-      "name": "The Krusty Ciabatta",
+      "name": "The Crusty Ciabatta",
       "desc": "This fine loaf was made in the style of italian Ciabatta but somehow still got a nice crunchy crust. Pretty fluffy on the inside",
       "price": "2.99",
       "catid": 0,
@@ -328,21 +328,21 @@
     },
     {
       "name": "Jesse Breadmen",
-      "desc": "filler desc",
+      "desc": "He is channeling his inner 1920 delivery boy with that cart.",
       "price": "3.99",
       "catid": 2,
       "url": "https://bread.basgoeze.com/images/bread_delivery/bread_00.png"
     },
     {
       "name": "Mustafa Leipämann",
-      "desc": "filler desc",
-      "price": "3.99",
+      "desc": "How can you not trust him with that smile.",
+      "price": "30.99",
       "catid": 2,
       "url": "https://bread.basgoeze.com/images/bread_delivery/bread_01.png"
     },
     {
       "name": "Cereal Breadder",
-      "desc": "filler desc",
+      "desc": "Better watch out if you are allergic to gluten.",
       "price": "3.99",
       "catid": 2,
       "url": "https://bread.basgoeze.com/images/bread_delivery/bread_02.png"
@@ -350,49 +350,49 @@
     {
       "name": "Brother's Bread Van",
       "desc": "These two brothers do not fear any distance when it comes to delivering bread.",
-      "price": "3.99",
+      "price": "2.99",
       "catid": 2,
       "url": "https://bread.basgoeze.com/images/bread_delivery/bread_03.png"
     },
     {
       "name": "Edward Breadward",
-      "desc": "filler desc",
-      "price": "3.99",
+      "desc": "You better be on team edward.",
+      "price": "3.97",
       "catid": 2,
       "url": "https://bread.basgoeze.com/images/bread_delivery/bread_04.png"
     },
     {
       "name": "Leonardo Breadbox",
-      "desc": "filler desc",
-      "price": "3.99",
+      "desc": "He has been completely consumed by his desire for bread.",
+      "price": "3.98",
       "catid": 2,
       "url": "https://bread.basgoeze.com/images/bread_delivery/bread_05.png"
     },
     {
       "name": "Vin Cheesebread",
-      "desc": "filler desc",
-      "price": "3.99",
+      "desc": "He is coming to to town and delivers your cheesy bread.",
+      "price": "3.42",
       "catid": 2,
       "url": "https://bread.basgoeze.com/images/bread_delivery/bread_06.png"
     },
     {
       "name": "Anon Bread",
       "desc": "He does not want to be seen but does deliver on time! May talk about some strange image boards though...",
-      "price": "3.99",
+      "price": "6.66",
       "catid": 2,
       "url": "https://bread.basgoeze.com/images/bread_delivery/bread_07.png"
     },
     {
       "name": "Arnold Schwarzbreadder",
-      "desc": "filler desc",
-      "price": "3.99",
+      "desc": "He works out just to carry all that bread.",
+      "price": "2.99",
       "catid": 2,
       "url": "https://bread.basgoeze.com/images/bread_delivery/bread_08.png"
     },
     {
       "name": "Tom",
       "desc": "Just Tom doing some deliveries.",
-      "price": "3.99",
+      "price": "13.99",
       "catid": 2,
       "url": "https://bread.basgoeze.com/images/bread_delivery/bread_09.png"
     },
@@ -621,149 +621,149 @@
       "url": "https://bread.basgoeze.com/images/bread_delivery/bread_41.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Disappointment cookies",
+      "desc": "These cookies illicit the same feelings, as the ice cream that is supposed to look like Spongebob.",
+      "price": "0.99",
       "catid": 3,
       "url": "https://bread.basgoeze.com/images/halloween_cookies/bread_00.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Mind-controlled ghost cookies",
+      "desc": "They should have worn aluminium foil on their head instead.",
+      "price": "1.99",
       "catid": 3,
       "url": "https://bread.basgoeze.com/images/halloween_cookies/bread_01.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Play-Doh cookies",
+      "desc": "These will trick you into thinking they aren't edible because they look like Play-Doh.",
+      "price": "3.49",
       "catid": 3,
       "url": "https://bread.basgoeze.com/images/halloween_cookies/bread_02.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Pumpkin-Penguin cookie",
+      "desc": "A cookie depicting a penguin in pumpkin.",
+      "price": "2.99",
       "catid": 3,
       "url": "https://bread.basgoeze.com/images/halloween_cookies/bread_03.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Pumpkin ghost cookies",
+      "desc": "Why not combine the best of halloween.",
+      "price": "1.49",
       "catid": 3,
       "url": "https://bread.basgoeze.com/images/halloween_cookies/bread_04.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Pumkin cookies",
+      "desc": "Cookies that look and taste like pumpkin.",
+      "price": "1.39",
       "catid": 3,
       "url": "https://bread.basgoeze.com/images/halloween_cookies/bread_05.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Skull chocolate cookie",
+      "desc": "These skeletons like chocolate a little bit too much and got it all over their jaws.",
+      "price": "4.99",
       "catid": 3,
       "url": "https://bread.basgoeze.com/images/halloween_cookies/bread_06.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Hallowen Grinch cookies",
+      "desc": "The grinch came a bit early this year and is now trying to fit in.",
+      "price": "1.11",
       "catid": 3,
       "url": "https://bread.basgoeze.com/images/halloween_cookies/bread_07.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Childrens Halloween cookies",
+      "desc": "These were made by children and you can see it.",
+      "price": "0.49",
       "catid": 3,
       "url": "https://bread.basgoeze.com/images/halloween_cookies/bread_08.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Dark chocolate halloween cookies",
+      "desc": "These are as bitter as my ex-wife.",
+      "price": "5.99",
       "catid": 3,
       "url": "https://bread.basgoeze.com/images/halloween_cookies/bread_09.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Bowling on halloween cookies",
+      "desc": "For some reason someone decided to make bowling balls out of pumkins.",
+      "price": "2.34",
       "catid": 3,
       "url": "https://bread.basgoeze.com/images/halloween_cookies/bread_10.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Eyebrow cookies",
+      "desc": "Even on halloween eyebrows are important",
+      "price": "4.65",
       "catid": 3,
       "url": "https://bread.basgoeze.com/images/halloween_cookies/bread_11.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Cartoon cookies",
+      "desc": "These cookies are what happens when you bake with an artist from a childrens cartoon.",
+      "price": "1.78",
       "catid": 3,
       "url": "https://bread.basgoeze.com/images/halloween_cookies/bread_12.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Void cookies",
+      "desc": "Dont worry it calls for you so nicely.",
+      "price": "1.25",
       "catid": 3,
       "url": "https://bread.basgoeze.com/images/halloween_cookies/bread_13.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "The basic cookies",
+      "desc": "These are all you need to halloween.",
+      "price": "1.99",
       "catid": 3,
       "url": "https://bread.basgoeze.com/images/halloween_cookies/bread_14.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Minimalist cookies",
+      "desc": "Cookies made by halloween minimalists, a bit weird, but who are we to judge.",
+      "price": "2.99",
       "catid": 3,
       "url": "https://bread.basgoeze.com/images/halloween_cookies/bread_15.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Radioactive cookies",
+      "desc": "The green stuff on their head is obviously radioactive, I have seen more than enough cartoons.",
+      "price": "7.49",
       "catid": 3,
       "url": "https://bread.basgoeze.com/images/halloween_cookies/bread_16.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Blues clues cookies",
+      "desc": "The characters don't look quite like we remembered.",
+      "price": "3.49",
       "catid": 3,
       "url": "https://bread.basgoeze.com/images/halloween_cookies/bread_17.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Creepy Buddies",
+      "desc": "Though they might look cute, these round spooksters have a devilish kick to them.",
+      "price": "3.69",
       "catid": 3,
       "url": "https://bread.basgoeze.com/images/halloween_cookies/bread_18.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Perilous Pumpkins",
+      "desc": "These grimacing pumpkin sweets make a fine addition to any spooky event.",
+      "price": "3.49",
       "catid": 3,
       "url": "https://bread.basgoeze.com/images/halloween_cookies/bread_19.png"
     },
     {
-      "name": "Filler",
-      "desc": "filler desc",
-      "price": "3.99",
+      "name": "Skeleton Treat",
+      "desc": "Sweeten your halloween party with this spooky skeletal surprise!",
+      "price": "2.99",
       "catid": 3,
       "url": "https://bread.basgoeze.com/images/halloween_cookies/bread_20.png"
     },
